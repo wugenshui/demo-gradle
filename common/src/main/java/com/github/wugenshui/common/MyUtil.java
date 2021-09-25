@@ -8,7 +8,7 @@ public class MyUtil {
     /**
      * 加法
      */
-    public int add(int numA, int numB) {
+    public static int add(int numA, int numB) {
         return numA + numB;
     }
 }
