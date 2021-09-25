@@ -4,7 +4,7 @@ package com.github.wugenshui.common;
  * @author : chenbo
  * @date : 2021-09-25
  */
-public class Util {
+public class MyUtil {
     /**
      * 加法
      */

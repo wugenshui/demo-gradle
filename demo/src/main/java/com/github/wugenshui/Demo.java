@@ -6,6 +6,7 @@ package com.github.wugenshui;
  */
 public class Demo {
     public static void main(String[] args) {
+//        System.out.println(MyUtil.add(1, 2));
         System.out.println("demo");
     }
 }
