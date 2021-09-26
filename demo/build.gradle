@@ -10,8 +10,11 @@ repositories {
 }
 
 dependencies {
-    compile project(":common")
-    compile "org.springframework:spring-core:5.2.5.RELEASE"
+//     compile 'log4j:log4j:1.2.17'
+//     compile project(":common")
+    implementation "org.springframework:spring-core:5.2.5.RELEASE"
+    implementation "org.springframework:spring-beans:5.2.5.RELEASE"
+//     compile "org.springframework:spring-core:5.2.5.RELEASE"
 }
 
 sourceSets {
