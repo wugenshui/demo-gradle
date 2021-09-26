@@ -41,3 +41,5 @@ atlassian-ide-plugin.xml
 
 **/build
 **/gradle
+/gradlew
+/gradlew.bat

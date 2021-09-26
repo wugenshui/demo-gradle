@@ -16,6 +16,11 @@ public class Demo {
         System.out.println(bf);
 
 //        System.out.println(MyUtil.add(1, 2));
-        System.out.println("demo");
+        System.out.println(result());
+    }
+
+    @Deprecated
+    public static String result() {
+        return "Deprecated";
     }
 }
